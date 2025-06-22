@@ -41,3 +41,12 @@ It is intended for educational purposes for cybersecurity students and researche
 **Windows 10/11 + You Can Run it on Linux)**
 
 ## Extensions 🍭
+**Low detection by antivirus programs**
+**(not FUD and without encryption)**
+
+**It handles more than one API and not just Discord WebHook**
+
+# 👤 Credits
+Rafas
+
+# License
