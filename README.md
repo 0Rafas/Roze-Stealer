@@ -6,9 +6,9 @@ It is intended for educational purposes for cybersecurity students and researche
 ## Features 👙
 • Discord/Telegram Tokens
 • Browser Info 
-- Passwords
-- Coockies
-- History
+• Passwords
+• Coockies
+• History
 • System Info
 • Camera
 • Files
