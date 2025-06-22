@@ -4,35 +4,39 @@
 **Roze Stealer is an open-source program written in C++, with a UI inspired by [Blank Grabber](https://github.com/Blank-c/Blank-Grabber).
 It is intended for educational purposes for cybersecurity students and researchers."**
 ## Features 👙
-• Discord/Telegram Tokens
+•  Discord/Telegram Tokens
 
-• Browser Info 
+•  Browser Info 
 
-• Passwords
+•  Passwords
 
-• Coockies
+•  Coockies
 
-• History
+•  History
 
-• System Info
+•  System Info
 
-• Camera
+•  Camera
 
-• Files
+•  Files
 
-• Add To Start Up
+•  Add To Start Up
 
-• Run As Admin
+•  Run As Admin
 
-• Monitor Screen
+•  Monitor Screen
 
-• More ..
+•  More ..
 ## Requirements 💋
 
 **CMake (3.10+ Version)**
+
 **C++ Compiler: Supports the C++17 standard (such as GCC, Clang, or MSVC)**
+
 **External Libraries: (Core, Widgets, Network components) for GUI development. You can obtain them from the official Qt website**
+
 **Run As Admin**
+
 **nlohmann/json (3.10.5+ Version)**
 **Windows 10/11 + You Can Run it on Linux)**
 
