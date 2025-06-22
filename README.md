@@ -5,16 +5,27 @@
 It is intended for educational purposes for cybersecurity students and researchers."**
 ## Features 👙
 • Discord/Telegram Tokens
+
 • Browser Info 
+
 • Passwords
+
 • Coockies
+
 • History
+
 • System Info
+
 • Camera
+
 • Files
+
 • Add To Start Up
+
 • Run As Admin
+
 • Monitor Screen
+
 • More ..
 ## Requirements 💋
 
